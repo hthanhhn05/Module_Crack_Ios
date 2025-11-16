@@ -1,11 +1,4 @@
-#!name=hthanhhn05 All In One (Đã Tối Ưu Hóa)
-#!desc=Bản tổng hợp cá nhân hóa, script được lưu trữ tại repo của hthanhhn05.
-#!author=hthanhhn05
-#!homepage=https://github.com/hthanhhn05/Module_Crack_Ios
-#!moduleUrl=https://raw.githubusercontent.com/hthanhhn05/Module_Crack_Ios/main/hthanh_Full_Module_V3.sgmodule
-#!icon=https://module-ios.vercel.app/assets/img/shadowrocket.webp
-#!howtouse=Shadowrocket
-#Shadowrocket Configuration - PERSONALIZED
+#!name=hthanhhn05
 
 [Rule]
 AND,((DOMAIN-SUFFIX,googlevideo.com),(PROTOCOL,UDP)),REJECT
