@@ -37,9 +37,9 @@ obj.features = [
         "enabled": true,
         "plans": ["high_tier"]
     },
+    // Đã sửa lỗi cú pháp ở đây:
     {
-        "name":Example:
-        "system_playlist_in_library",
+        "name": "system_playlist_in_library",
         "enabled": true,
         "plans": []
     },
